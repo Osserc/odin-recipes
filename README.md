@@ -1,5 +1,4 @@
-# odin-recipes
-<h1>Exercise: make a cookbook</h1>
+# Exercise: make a cookbook
 <p>The assignment revolved around the construction of a simple cookbook using webpages.</p>
 <p>In the completion of this assignment I had the chance to work on the basics of webpages:
     <ul>
